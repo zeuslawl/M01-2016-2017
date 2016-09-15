@@ -1,3 +1,4 @@
+AVUI HE APRES GIT
 Repositori del mo1
 muntatge i manteniment equips
 
