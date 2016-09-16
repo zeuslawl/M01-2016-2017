@@ -7,11 +7,15 @@
 1. un
 2. dos
 3. tres
+
 ### Llista de punts
+
 * Primer
 * segon 
-* tercer 
+* tercer
+ 
 ### Enllaç Web
+
 [Enllaç a Escola del treball](http://www.escoladeltreball.org/ca)
 ![Imatge Escola del treball](http://www.escoladeltreball.org/img/portal.jpg "Escola del Treball")  
 
