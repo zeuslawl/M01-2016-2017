@@ -2,7 +2,7 @@
 
 ## López Herrador Alejandro
 
-***
+* * *
 ###                                 **Índex**
 
 **1**. Descarregar d'internet una imatge ISO del Fedora 24 Workstation.
