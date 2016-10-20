@@ -4,11 +4,11 @@
 
 **1.** Port PS/2
 **2.** Port DVI
-**3**. Port DVI
-**4**. Port VGA
+**2.** Port DVI
+**4.** Port VGA
 **5**. USB 3.0
-**6**. USB 2.0
-**7**. Port d'internet
-**8**. Connectors D'audio
+**6.** USB 2.0
+**7.** Port d'internet
+**8:** Connectors D'audio
 
  
