@@ -1,6 +1,6 @@
 ##2.Feu una foto del panell de connectors posterior del vostre ordinador i identifiqueu-hi quin connector és cadascún.
 
-![Imatge del PC] (https://gyazo.com/3b650e0e63c1e7b43275790d79bb6bac)
+![Imatge del PC] (https://i.gyazo.com/3b650e0e63c1e7b43275790d79bb6bac.png)
 
 1. Port PS/2
 2. Port DVI
