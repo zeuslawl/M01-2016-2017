@@ -1,3 +1,5 @@
+#Resum Busos
+
 PCI Express | Transfer rate | x1 | x4 | x8 | x16
 -- | -- | -- | -- | -- | --
 1.0| 2,5 GT/s | 250 MB/s | 1 GB/s  | 2 GB/s | 4 GB/s
