@@ -1,0 +1,5 @@
+Para clonar ---> git clone + url del github
+Para bajar ---> git pull + url del github
+Para subir ---> git push + nombre url
+Para poner archivo nuevo ---> git add * 
+para actualizar archivo al github ---> git commit -am 'un pequeño gesto tipo actualizado' (entre comillas simples)
