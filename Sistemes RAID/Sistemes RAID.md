@@ -36,4 +36,10 @@ mdadm --create nombre --level=5 --raid-devices=3 /dev/vda /dev/vdd /dev/vdb
 
 #### 5. Comandes i descripció de les mateixes per tal de crear un sistema RAID6
 
-mdadm --create nombre --level=6 --raid-devices=3 /dev/vda /dev/vdd /dev/vdb
+mdadm --create nombre --level=6 --raid-devices=4 /dev/vda /dev/vdd /dev/vdb /dev/vdc
+
+#### 6. Comandes i descripció de les mateixes per tal de crear un sistema RAID10
+
+mdadm --create nombre --level=10 --raid-devices=4 /dev/vda /dev/vdb /dev/vdc /dev/vdd
+
+
