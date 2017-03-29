@@ -6,7 +6,7 @@
 | ------- | --------- | -------------------- | --------- | ---- | ----- |
 | Raid 0 | 2 | 0 | 100% | EXCELENTE | EXCELENTE |
 | Raid 1 | 2(Máx)| 1 | 50% | 6 | V.GOOD | GOOD |
-| Raid 5 | 3 | 1 | 8 | 67% ~ 94% | V. GOOD | GOOD |
+| Raid 5 | 3 | 1 | 67% ~ 94% | V. GOOD | GOOD |
 | Raid 6 | 4 | 2 | 50% -- 88% | GOOD | GOOD |
 | Raid 10 | 4 | 1/ Mirror | 50% | V.GOOD | GOOD |  
 
