@@ -31,7 +31,11 @@
 
 * ##### **Pràctica 4: Ampliació del volum lògic de dades al raid.**
 
+    Comandament de l'ampliació (50M) --> **lvextend         -L50M /dev/practica1/dades**
+
 * ##### **Pràctica 5: Ampliació del sistema de fitxers xfs al tamany actual del volum lògic dades (s'ha de poder fer sense desmuntar-lo de /mnt ja que és xfs). Una vegada creat crearem un nou fitxer de 180M.**
+
+
 
 
 
