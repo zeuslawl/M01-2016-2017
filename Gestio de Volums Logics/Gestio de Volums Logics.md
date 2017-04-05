@@ -2,8 +2,8 @@
 
 
 
-* **Descripció del que són**
-* **Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:**
+* Descripció del que són
+* Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:
     ```
     PV -->Physical Volume - Identificació de discs
     VG --> Volume Group - Discs Virtuals
@@ -27,11 +27,13 @@
     
 * ##### **Pràctica 3: Creació d'un RAID 1 als dos discos sobrants (vdb i vdc per exemple).**
     
-    Creació d'un raid 1 --> **mdadm --create nom            --level=1 --raid-devices=2 /dev/vdb /dev/vdc**
+    Creació d'un raid 1 --> **mdadm --create md1            --level=1 --raid-devices=2 /dev/vdb /dev/vdc**
 
 * ##### **Pràctica 4: Ampliació del volum lògic de dades al raid.**
 
 * ##### **Pràctica 5: Ampliació del sistema de fitxers xfs al tamany actual del volum lògic dades (s'ha de poder fer sense desmuntar-lo de /mnt ja que és xfs). Una vegada creat crearem un nou fitxer de 180M.**
+
+
 
 
 
