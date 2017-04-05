@@ -2,8 +2,8 @@
 
 
 
-* Descripció del que són
-* Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:
+* **Descripció del que són**
+* **Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:**
     ```
     PV -->Physical Volume - Identificació de discs
     VG --> Volume Group - Discs Virtuals
