@@ -14,6 +14,7 @@
     Iniciar la màquina virtual i on esta la bombeta        anar a la opció de add hardware i afegir 3 discs de     200M format **VirtIO**
 
 * **Pràctica 1: Creació d'un volum lògic a partir d'un dels tres discs durs (vda per exemple). Aquest volum lògic ha de ser del total de capacitat del disc. El volum de grup s'ha de dir practica1 i el volum lògic dades.**
+
 Volum lògic --> **vgcreate practica1 /dev/sda** 
 Volum lògic del total de capcitat del disc --> **lvcreate -l 100%FREE -n dades practica1** 
 
