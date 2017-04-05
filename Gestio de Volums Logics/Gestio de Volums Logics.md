@@ -2,11 +2,11 @@
 
 
 
-* Descripció del que són
+* **Descripció del que són**
 
-    **La gestió de volums lògics porporciona més            ventatges que el sistema de particions.** 
+    La gestió de volums lògics porporciona més            ventatges que el sistema de particions.
     
-* Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:
+* **Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:**
     ```
     PV -->Physical Volume - Identificació de discs
     VG --> Volume Group - Discs Virtuals
