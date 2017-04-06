@@ -10,6 +10,7 @@
     ```
     PV -->Physical Volume - Identificació de discs
     Comandes --> 
+    pvs: Llista tots els dispositius.
     
     VG --> Volume Group - Discs Virtuals
     Comandes --> 
