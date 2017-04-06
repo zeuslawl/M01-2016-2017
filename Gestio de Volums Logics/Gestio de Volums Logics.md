@@ -20,9 +20,10 @@
     
     LV --> Logical Volume - Particions
     Comandes --> 
-    lv_size --> El tamaño del volumen lógico 
-    
+    lv_size: El tamaño del volumen lógico 
+    lv_name: El nombre del volumen lógico 
     ```    
+    
 * ##### **Entorn de pràctiques: Explicar com farem la pràctica detalladament (màquina virtual i afegir tres discs de 200M)**
 
     Iniciar la màquina virtual i on esta la bombeta        anar a la opció de add hardware i afegir 3 discs de     200M format **VirtIO**
