@@ -9,8 +9,12 @@
 *  ##### **Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:**
     ```
     PV -->Physical Volume - Identificació de discs
+    Comandes --> 
+    
     VG --> Volume Group - Discs Virtuals
-    LV --> Logical Volume - Particions 
+    Comandes --> 
+    LV --> Logical Volume - Particions
+    Comandes --> 
     ```    
 * ##### **Entorn de pràctiques: Explicar com farem la pràctica detalladament (màquina virtual i afegir tres discs de 200M)**
 
