@@ -11,12 +11,16 @@
     PV -->Physical Volume - Identificació de discs
     Comandes --> 
     pvs: Llista tots els dispositius.
+    pv_free: Espai lliure del volum físic
     
     VG --> Volume Group - Discs Virtuals
     Comandes --> 
+    vg_name: El nom de grup de volums
+    vg_sysid: ID del sistema de LVM1 
     
     LV --> Logical Volume - Particions
     Comandes --> 
+    lv_size --> El tamaño del volumen lógico 
     
     ```    
 * ##### **Entorn de pràctiques: Explicar com farem la pràctica detalladament (màquina virtual i afegir tres discs de 200M)**
