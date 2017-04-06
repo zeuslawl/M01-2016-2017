@@ -37,26 +37,26 @@
 
 * ##### **Pràctica 2: Creació d'un sistema de fitxers xfs al volum lògic creat i muntatge a /mnt. També s'ha de crear un fitxer amb dd de 180MB.**
 
-    Creació d'un sistema de fitxers --> **mkfs.ext4         /dev/practica1/dades /mnt**  
+        Creació d'un sistema de fitxers --> **mkfs.ext4         /dev/practica1/dades /mnt**  
     
-    Creació d'un fitxer amb dd de 180MB --> **dd            if=/dev/zero of=test.img bs=1k count=180000**
+        Creació d'un fitxer amb dd de 180MB --> **dd            if=/dev/zero of=test.img bs=1k count=180000**
 
 
 * ##### **Pràctica 3: Creació d'un RAID 1 als dos discos sobrants (vdb i vdc per exemple).**
     
-    Creació d'un raid 1 --> **mdadm --create md1            --level=1 --raid-devices=2 /dev/vdb /dev/vdc**
+        Creació d'un raid 1 --> **mdadm --create md1            --level=1 --raid-devices=2 /dev/vdb /dev/vdc**
 
 
 * ##### **Pràctica 4: Ampliació del volum lògic de dades al raid.**
 
-    Comandament de l'ampliació (50M) --> **lvextend         -L+50M /dev/practica1/dades**
+        Comandament de l'ampliació (50M) --> **lvextend         -L+50M /dev/practica1/dades**
 
 
 * ##### **Pràctica 5: Ampliació del sistema de fitxers xfs al tamany actual del volum lògic dades (s'ha de poder fer sense desmuntar-lo de /mnt ja que és xfs). Una vegada creat crearem un nou fitxer de 180M.**
 
-    Ampliació del sistema de fitxers xfs -->                **xfs_growfs /dev/practica1/dades** 
+        Ampliació del sistema de fitxers xfs -->                **xfs_growfs /dev/practica1/dades** 
     
-    Creació de un nou fitxer de 180M --> **dd               if=/dev/zero of=test.img bs=1k count=180000**
+        Creació de un nou fitxer de 180M --> **dd               if=/dev/zero of=test.img bs=1k count=180000**
 
 
 
