@@ -4,7 +4,7 @@
 
 *  ##### **Descripció del que són**
 
-    La gestió de volums lògics és un sistema de particions independents que porporciona més ventatges que el sistema de         particions.(com poder afegir més funcionalitats i més fàcil d'ampliar o disminuir particions.
+    La gestió de volums lògics és un sistema de particions independents que porporciona més ventatges que el sistema de         particions.(com poder afegir més funcionalitats i més fàcil d'ampliar o disminuir particions).
     
 *  ##### **Què volen dir les sigles, definició, analogies i exemples de comandes (explicant què fan) vistes a classe de:**
     ```
