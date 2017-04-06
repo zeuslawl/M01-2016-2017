@@ -49,7 +49,7 @@
         
         Para saber el estado del raid --> cat /proc/mdstat
         
-![FOTO2](cap_estado_del_raid.png)
+![FOTO2](cap_consultar_raid.png)
 
 * ##### **Pràctica 4: Ampliació del volum lògic de dades al raid.**
 
