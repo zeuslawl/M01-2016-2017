@@ -13,8 +13,10 @@
     
     VG --> Volume Group - Discs Virtuals
     Comandes --> 
+    
     LV --> Logical Volume - Particions
     Comandes --> 
+    
     ```    
 * ##### **Entorn de pràctiques: Explicar com farem la pràctica detalladament (màquina virtual i afegir tres discs de 200M)**
 
