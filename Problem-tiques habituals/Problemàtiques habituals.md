@@ -95,5 +95,6 @@
 
 - Pila de la BIOS esgotada
 
+
     Primero que no guarda la configuración que tienes de la bios. 
     Segundo compruebas al abrir el pc que la pila esta en mal estado/rota.
