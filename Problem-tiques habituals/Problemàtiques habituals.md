@@ -1,12 +1,14 @@
 # Problemàtiques habituals
 #### Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:
 
-- Botón power on roto
+- Botón power on roto:
+
 Comprobar si apretando el botón no arranca el pc, si no arranca abrimos el pc y juntamos los pines de la placa si va es que uno de los cables esta roto sino es la problema de la placa.
 
 - Botón power on se queda clavado en ON:
  
 - Fuente rota del todo:
+
 Comprobar si no enciende el pc estando bien conectada la fuente, después mirar con el tester, si no da señal es que la fuente esta rota.
 
 - Fuente medio rota:
