@@ -2,12 +2,9 @@
 Normal Text
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <b># Problemàtiques habituals:</b><br>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://github.com/zeuslawl/M01-2016-2017/blob/master/Problem-tiques%20habituals/reparacion-de-la-pc.jpg">
 </p>
 
 Normal text
