@@ -4,11 +4,10 @@
 - Botón power on roto:
 
     Comprobar si apretando el botón no arranca el pc, si no arranca abrimos el pc y juntamos los pines de la placa si va es     que uno de los cables esta roto sino es la problema de la placa.
-    
 
 - Botón power on se queda clavado en ON:
  
-
+    Cuando el pc no deja apagarlo y notas que el botón esta pillado.
 
 - Fuente rota del todo:
 
@@ -36,7 +35,7 @@
 
 - Gráfica pinchada rota:
 
-    Al poner el cable de video no funciona/no la detecta. El ventilador no funciona. No carga la imagen/se queda en pantalla     azul.
+    Al poner el cable de video no funciona/no la detecta. El ventilador no funciona. No carga la imagen/se queda en pantalla     azul. Conectas otra gráfica y si funciona.
 
 - CPU rota/ no hay CPU/chipset roto:
 
@@ -48,6 +47,10 @@
 
 - Placa medio rota:
 
+    Mirar que los pines no esten doblados.
+    Comprobar que todo funcione.
+    Mirar si el conector del ventilador esta bien.
+    
 
 - Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).
 
@@ -64,28 +67,31 @@
 
 - Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND.
  
-
+    Poner disco duro nuevo.
 
 - BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS.
 
-
+    Darle al botón para reiniciar la bios de fabrica. 
+    Volver a instalar la BIOS.
 
 - Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error.
 
-
+    Smart te dice que en el futuro tendra problemas el disco. 
+    Aconsejable cambiar el disco.
 
 - Pantalla rota/cable roto: Arranca con normalidad.
 
     Si al comprobar otra pantalla da señal de vídeo es que la pantalla esta rota si no funciona al cambiar la pantalla           comprobar los cables porque pueden estar rotos. Poner cables nuevos y comprobar, si funciona es problema del cable           anterior.
 
 - USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.
+    
+    Comprobar que el conector este en su sitio y la temperatura de la placa.        
+
 - USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).
+
+    
 
 - Pila de la BIOS esgotada
 
     Primero que no guarda la configuración que tienes de la bios. 
     Segundo compruebas al abrir el pc que la pila esta en mal estado/rota.
-
-
-
-
