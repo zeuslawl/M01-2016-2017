@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <b> Problemàtiques habituals </b><br>
+  <b> # Problemàtiques habituals </b><br>
   <br><br>
   <img src="https://github.com/zeuslawl/M01-2016-2017/blob/master/Problem-tiques%20habituals/reparacion-de-la-pc.jpg">
 </p>
