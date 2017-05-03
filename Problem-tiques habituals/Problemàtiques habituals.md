@@ -81,15 +81,17 @@
 
 - Pantalla rota/cable roto: Arranca con normalidad.
 
-    Si al comprobar otra pantalla da señal de vídeo es que la pantalla esta rota si no funciona al cambiar la pantalla           comprobar los cables porque pueden estar rotos. Poner cables nuevos y comprobar, si funciona es problema del cable           anterior.
+    Si al comprobar otra pantalla da señal de vídeo es que la pantalla esta rota si no funciona al cambiar la pantalla           comprobar los cables porque pueden estar rotos. Poner cables nuevos y comprobar, si funciona es problema del cable           anterior.  
 
-- USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.
+
+- USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.  
     
     Comprobar que el conector este en su sitio y la temperatura de la placa.        
 
 - USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).
 
-    
+    Mirar manual de la placa.
+    Comprobar que este bien conectado a la placa.
 
 - Pila de la BIOS esgotada
 
