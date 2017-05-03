@@ -2,7 +2,13 @@
 
 ![FOTO](reparacion-de-la-pc.jpg)
 
+<p align="center">
 
+  <br><br>
+  <img src="reparacion-de-la-pc.jpg">
+</p>
+
+Normal text
 
 
 #### Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:
