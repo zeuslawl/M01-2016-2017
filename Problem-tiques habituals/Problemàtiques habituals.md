@@ -1,4 +1,10 @@
 # Problemàtiques habituals
+
+![FOTO](reparacion-de-la-pc.jpg)
+
+
+
+
 #### Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:
 
 - Botón power on roto:
