@@ -1,5 +1,5 @@
 # Problemàtiques habituals
-##### Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:
+#### Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:
 
 - Botón power on roto
 Comprobar si apretando el botón no arranca el pc, si no arranca abrimos el pc y juntamos los pines de la placa si va es que uno de los cables esta roto sino es la problema de la placa.
