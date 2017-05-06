@@ -13,27 +13,31 @@
 - Botón power on roto:
 
     Comprobar si apretando el botón no arranca el pc, si no arranca abrimos el pc y juntamos los pines de la placa si va es que uno de los cables esta roto sino es la problema de la placa.
+    **-Al pulsar el botón no se enciende, ni hace nada.**
 
 - Botón power on se queda clavado en ON:
  
     Cuando el pc no deja apagarlo y notas que el botón esta pillado.
 
+    **-Al pulsar el botón no se enciende, ni hace nada.**
+
 - Fuente rota del todo:
 
     Comprobar si no enciende el pc estando bien conectada la fuente, después mirar con el tester, si no da señal es que la       fuente esta rota.
+    ****
 
 - Fuente medio rota:
 
     No tiene suficiente potencia para aguantar todo el pc pero si desconectas algo si funciona pero le cuesta.
-
+    
 - RAM mal puesta:
 
     Al enchegar el pc, el pc pita, depende los pitados es que la ram esta mal colocada. 
-
+    **-Un graciosillo quita la RAM y supuestamente la vuelve a pinchar bien. AL entrar en el menu de la BIOS se bloqueaba: Solución pinchar bien la RAM.**
 - RAM rota:
 
     Vas a la bios y compruebas la cantidad de ram si no te la detecta es o que no esta bien colocada o que esta rota.
-
+    **-La pantalla se apaga y se enciende a veces. Otras veces se quedaba la mitad negra. RAM.**
 - RAM medio rota: (unos KB mal):
 
     Sabiendo la cantidad de memoria ram que tenemos, vamos a la bios y comprobamos lo que tenemos realmente si es menos es       que la ram está medio rota.
@@ -41,15 +45,15 @@
 - Sin RAM:
 
     Pita el ordenador conforme le falta RAM. 
-
+    **-La pantalla se apaga y se enciende a veces. Otras veces se quedaba la mitad negra. RAM.**
 - Gráfica pinchada rota:
 
     Al poner el cable de video no funciona/no la detecta. El ventilador no funciona. No carga la imagen/se queda en pantalla     azul. Conectas otra gráfica y si funciona.
-
+    **-El PC enciende correctamente pero no se ve nada por pantalla. Tiene gráfica integrada y una pinchada.**
 - CPU rota/ no hay CPU/chipset roto:
 
     CPU rota que el chipset no funciona o que los pines estan rotos.
-
+    **-Arranca pero sin imagen. Se escuchan los ventiladores. Sin pitido de BIOS OK.**
 - Placa rota:
 
     No te detecta nada ni se enciende ni nada.
@@ -64,7 +68,7 @@
 - Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).
 
     Conectas el teclado y no funciona, conectas otro y si funciona. Problema del teclado.
-
+    **-Keyboard not found.**
 - Falta ratón: No se queja.
 
     Mirar que no tienes ratón.
@@ -73,36 +77,43 @@
 - Falla CD/DVD: No se queja.
 
     A la hora de poner cd/dvd no funciona es problema o que no estan conectados bien los cables o que esta rota.
-
+    
 - Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND.
  
     Poner disco duro nuevo.
-
+    **-Disco duro roto/mal conectado.**
 - BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS.
 
     Darle al botón para reiniciar la bios de fabrica. 
     Volver a instalar la BIOS.
-
+    **-Se queda en los mensajes de la BIOS pero no acaba de arrancar.**
 - Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error.
 
     Smart te dice que en el futuro tendra problemas el disco. 
     Aconsejable cambiar el disco.
-
+    **-Disco duro roto/mal conectado.**
 - Pantalla rota/cable roto: Arranca con normalidad.
 
     Si al comprobar otra pantalla da señal de vídeo es que la pantalla esta rota si no funciona al cambiar la pantalla           comprobar los cables porque pueden estar rotos. Poner cables nuevos y comprobar, si funciona es problema del cable           anterior.  
-
+    **-La pantalla se pone negra (pero con el led de encendido naranja). Al pegarle un golpe volvía a funcionar. Al final ya no iba. Se cambió el cable VGA.**
 
 - USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.  
     
-    Comprobar que el conector este en su sitio y la temperatura de la placa.        
+    Comprobar que el conector este en su sitio y la temperatura de la placa.  
+    **-Al pinchar un USB en el frontal se apaga.**
 
 - USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).
 
     Mirar manual de la placa.
     Comprobar que este bien conectado a la placa.
-
+    **-Al pinchar un USB en el frontal se apaga.**
+    
 - Pila de la BIOS esgotada
 
     Primero que no guarda la configuración que tienes de la bios. 
     Segundo compruebas al abrir el pc que la pila esta en mal estado/rota.
+    **-La BIOS pita dos veces y da el mensaje “Checksum error”: BIOS rota.**
+
+
+
+
