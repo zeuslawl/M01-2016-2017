@@ -24,7 +24,7 @@
 - Fuente rota del todo:
 
     Comprobar si no enciende el pc estando bien conectada la fuente, después mirar con el tester, si no da señal es que la       fuente esta rota.
-    ****
+   
 
 - Fuente medio rota:
 
