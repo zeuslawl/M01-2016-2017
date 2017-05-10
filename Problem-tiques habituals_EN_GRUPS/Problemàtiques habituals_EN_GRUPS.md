@@ -24,12 +24,12 @@
 - Fuente rota del todo:
 
     Comprobar si no enciende el pc estando bien conectada la fuente, después mirar con el tester, si no da señal es que la       fuente esta rota.
-   
+  
 
 - Fuente medio rota:
 
     No tiene suficiente potencia para aguantar todo el pc pero si desconectas algo si funciona pero le cuesta.
-    
+    **-Funciona bien, pero al tenerla abierta y mover los cables internos, se apaga**
 - RAM mal puesta:
 
     Al enchegar el pc, el pc pita, depende los pitados es que la ram esta mal colocada. 
@@ -41,7 +41,7 @@
 - RAM medio rota: (unos KB mal):
 
     Sabiendo la cantidad de memoria ram que tenemos, vamos a la bios y comprobamos lo que tenemos realmente si es menos es       que la ram está medio rota.
-
+  **Al pasar el antivirus se queda clavada la imagen, el puntero del ratón se mueve y a veces se reinicia.**
 - Sin RAM:
 
     Pita el ordenador conforme le falta RAM. 
@@ -57,13 +57,13 @@
 - Placa rota:
 
     No te detecta nada ni se enciende ni nada.
-
+  **-Altavoz roto/desconectado.**
 - Placa medio rota:
 
     Mirar que los pines no esten doblados.
     Comprobar que todo funcione.
     Mirar si el conector del ventilador esta bien.
-    
+    **-Funciona bien, pero al tenerla abierta y mover los cables internos, se apaga**
 
 - Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).
 
@@ -73,7 +73,7 @@
 
     Mirar que no tienes ratón.
     Comprobar que no sea problema del usb.
-
+  
 - Falla CD/DVD: No se queja.
 
     A la hora de poner cd/dvd no funciona es problema o que no estan conectados bien los cables o que esta rota.
