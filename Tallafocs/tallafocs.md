@@ -77,7 +77,8 @@
         
         **Busqueu un altre tallafocs per windows. Indiqueu la plana web i les prestacions que ens dona. Intenteu que NOMÉS            sigui tallafocs.**
         
-       TinyWall. <https://tinywall.pados.hu/>  <http://joedicastro.com>
+       TinyWall. 
+   <https://tinywall.pados.hu/> 
        
        Sólo necesita un megabyte de tu disco duro y funciona como un programa independiente, así que si no tienes mucho espacio disponible es la solución ideal.
 
