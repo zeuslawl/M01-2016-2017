@@ -77,7 +77,9 @@
         
         **Busqueu un altre tallafocs per windows. Indiqueu la plana web i les prestacions que ens dona. Intenteu que NOMÉS            sigui tallafocs.**
         
-       TinyWall. Sólo necesita un megabyte de tu disco duro y funciona como un programa independiente, así que si no tienes mucho espacio disponible es la solución ideal.
+       TinyWall. https://tinywall.pados.hu/
+       
+       Sólo necesita un megabyte de tu disco duro y funciona como un programa independiente, así que si no tienes mucho espacio disponible es la solución ideal.
 
        Es también una elección excelente si no quieres gestionar la aplicación constantemente: no hay pop-ups de aviso y       funciona en segundo plano sin agobiar al usuario. En cuanto a sus opciones, cuenta con una lista blanca, listas de bloqueos por puerto y dominios, restricción de acceso de las aplicaciones, soporte IPv6, bloqueos por contraseña y mucho más.
 
