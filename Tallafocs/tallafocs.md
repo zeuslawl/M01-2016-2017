@@ -49,16 +49,25 @@
         
         **Instal.leu el servidor web httpd o nginx i activeu-ne el servei (dnf installl ...  ; systemctl ....). Indiqueu les comandes i comproveu que des d'una altra màquina podeu accedir via web a la vostra IP (digueu-li a           un       company). Hauria de sortir la plana per defecte.**
         
+        dnf install nginx
+        systemctl start nginx
+        systemctl status nginx --> Para comprobar si esta encendido.
+        
         **Activeu el servei firewalld. Indiqueu com ho feu.**
+        systemctl start frewalld
         
         **Comproveu si ara es pot seguir accedint.**
         
+        El compañero Pau ha intentado acceder y no puede. Si desactivo el firewalld puede acceder.
+        
+        
 # 3.Win7
         **Porta aquest SO algun tallafocs incorporat?**
-        
+        Si lleva una instalado por defecto.
         **Arrenqueu una màquina win7 a isard.escoladeltreball.org**
         
         **Indiqueu com arribar al tallafocs (passos i pantalles)**
+        
         
         **Es troba activat en aquest windows?**
         
