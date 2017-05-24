@@ -1,8 +1,10 @@
 # 1. Tallafocs
-        * Què es un sistema tallafocs? Quina és la seva finalitat? *
+        Què es un sistema tallafocs? Quina és la seva finalitat?
+        
         Es una parte de un sistema o una red que está diseñada para bloquear el acceso no autorizado, permitiendo al mismo tiempo comunicaciones autorizadas.
         
         Quines generacions de tallafocs hi ha hagut i què millorava cadascun?
+        
         Tres generaciones:
         Primera generación - cortafuegos de red: filtrado de paquetes
         Segunda generación- cortafuegos de estado
@@ -28,13 +30,22 @@
         
         A quina capa/capes sol treballar tradicionalment un tallafocs?
         
+        En la capa sesión y transporte.
+        
 # 2.Tallafocs Linux
         Busqueu quins són els tradicionals sistemes de tallafocs incorporats en linux i anomeneu-los
+        --iptables--
+        Chain input
+        chain forward 
+        chain output
+        
         
         Quins dels anteriors tallafocs estan instal.lats al fedora de classe? Com ho comproveu?
         
-        Algun dels anteriors tallafocs es troba activat?
+        iptables -L y debería devolver 3 lineas                diciendo que no hay reglas activas. 
         
+        Algun dels anteriors tallafocs es troba activat?
+        No
         Instal.leu el servidor web httpd o nginx i activeu-ne el servei (dnf installl ...  ; systemctl ....). 
         Indiqueu les comandes i comproveu que des d'una altra màquina podeu accedir via web a la vostra IP (digueu-li a           un       company). Hauria de sortir la plana per defecte.
         
