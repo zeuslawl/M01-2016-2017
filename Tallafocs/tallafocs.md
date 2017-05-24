@@ -1,5 +1,5 @@
 # 1. Tallafocs
-        Què es un sistema tallafocs? Quina és la seva finalitat?
+        *Què es un sistema tallafocs? Quina és la seva finalitat?*
         Es una parte de un sistema o una red que está diseñada para bloquear el acceso no autorizado, permitiendo al mismo tiempo comunicaciones autorizadas.
         
         Quines generacions de tallafocs hi ha hagut i què millorava cadascun?
