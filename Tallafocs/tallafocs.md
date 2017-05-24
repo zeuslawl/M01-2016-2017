@@ -10,7 +10,7 @@
         Quins dels anteriors tallafocs estan instal.lats al fedora de classe? Com ho comproveu?
         Algun dels anteriors tallafocs es troba activat?
         Instal.leu el servidor web httpd o nginx i activeu-ne el servei (dnf installl ...  ; systemctl ....). 
-        Indiqueu les comandes i comproveu que des d'una altra màquina podeu accedir via web a la vostra IP (digueu-li a un          company). Hauria de sortir la plana per defecte.
+        Indiqueu les comandes i comproveu que des d'una altra màquina podeu accedir via web a la vostra IP (digueu-li a           un       company). Hauria de sortir la plana per defecte.
         Activeu el servei firewalld. Indiqueu com ho feu.
         Comproveu si ara es pot seguir accedint.
 # 3.Win7
