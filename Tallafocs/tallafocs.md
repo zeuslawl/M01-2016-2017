@@ -63,13 +63,21 @@
         
 # 3.Win7
         **Porta aquest SO algun tallafocs incorporat?**
+        
         Si lleva una instalado por defecto.
+        
         **Arrenqueu una màquina win7 a isard.escoladeltreball.org**
         
         **Indiqueu com arribar al tallafocs (passos i pantalles)**
-        
+        Inicio - Panel de control - sistema y seguridad- Firewall de windows.
         
         **Es troba activat en aquest windows?**
         
+        Si se encuentra activado.
+        
         **Busqueu un altre tallafocs per windows. Indiqueu la plana web i les prestacions que ens dona. Intenteu que NOMÉS            sigui tallafocs.**
+        
+       TinyWall. Sólo necesita un megabyte de tu disco duro y funciona como un programa independiente, así que si no tienes mucho espacio disponible es la solución ideal.
+
+       Es también una elección excelente si no quieres gestionar la aplicación constantemente: no hay pop-ups de aviso y       funciona en segundo plano sin agobiar al usuario. En cuanto a sus opciones, cuenta con una lista blanca, listas de bloqueos por puerto y dominios, restricción de acceso de las aplicaciones, soporte IPv6, bloqueos por contraseña y mucho más.
 
