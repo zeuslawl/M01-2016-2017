@@ -61,6 +61,12 @@
         El compañero Pau ha intentado acceder y no puede. Si desactivo el firewalld puede acceder.
         
         
+  <p align="center">
+  <b></b><br>
+  <br><br>
+  <img src="https://github.com/zeuslawl/M01-2016-2017/blob/master/Tallafocs/nginx.png">
+</p>
+        
 # 3.Win7
 <p align="center">
   <b></b><br>
