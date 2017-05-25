@@ -67,7 +67,8 @@
   <br><br>
   <img src="https://github.com/zeuslawl/M01-2016-2017/blob/master/Tallafocs/wfirewall.png">
 </p>
-        **Porta aquest SO algun tallafocs incorporat?**
+       
+       **Porta aquest SO algun tallafocs incorporat?**
         
         Si lleva una instalado por defecto.
         
