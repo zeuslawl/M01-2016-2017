@@ -62,6 +62,11 @@
         
         
 # 3.Win7
+<p align="center">
+  <b></b><br>
+  <br><br>
+  <img src="https://github.com/zeuslawl/M01-2016-2017/blob/master/tallafocs/wfirewall.png">
+</p>
         **Porta aquest SO algun tallafocs incorporat?**
         
         Si lleva una instalado por defecto.
