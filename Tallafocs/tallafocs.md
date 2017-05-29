@@ -39,6 +39,8 @@
         chain forward 
         chain output
         
+        --Firewalld--
+        
         
         **Quins dels anteriors tallafocs estan instal.lats al fedora de classe? Com ho comproveu?**
         
